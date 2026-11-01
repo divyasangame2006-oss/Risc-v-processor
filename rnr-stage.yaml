@@ -26,3 +26,4 @@ modules:
   ex_stage:           {source_files: [EX_Stage/rtl.sv]}
   wb_stage:           {source_files: [WB_Stage/rtl.sv]}
   single_cycle_riscv: {source_files: [Single_Cycle_RISCV/rtl.sv]}
+  # Trigger CI after installing the app
